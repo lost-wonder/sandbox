@@ -1,2 +1,2 @@
 # sandbox
-Sandbox for DS &amp; Algo Learning in C++
+Sandbox for DS and Algorithm Learning in C++
