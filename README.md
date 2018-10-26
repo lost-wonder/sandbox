@@ -1,2 +1,2 @@
 # sandbox
-Sandbox for Data Structure & Algorithm Learning in C++
+Sandbox for ML Learning
